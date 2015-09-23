@@ -1,0 +1,9 @@
+Step 1.
+Go to
+~/Documents/Learning/MOOC/edX/Scalable_Machine_Learning/sparkvagrant
+
+do: vagrant up
+
+Step 2. 
+Go to your browser:
+http://localhost:8001
